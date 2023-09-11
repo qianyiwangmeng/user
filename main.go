@@ -1,7 +1,7 @@
-package main
+package awesomeProject1
 
 import "fmt"
 
-func main() {
-	fmt.Println("hello world")
+func Hello() {
+	fmt.Println("hello")
 }
